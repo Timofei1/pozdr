@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/poz/static/css/main.14abd855.chunk.css",
+    "main.js": "/poz/static/js/main.54cb89d2.chunk.js",
+    "main.js.map": "/poz/static/js/main.54cb89d2.chunk.js.map",
+    "runtime-main.js": "/poz/static/js/runtime-main.a6a2301f.js",
+    "runtime-main.js.map": "/poz/static/js/runtime-main.a6a2301f.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/poz/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.475d182f.chunk.js": "/poz/static/js/2.475d182f.chunk.js",
+    "static/js/2.475d182f.chunk.js.map": "/poz/static/js/2.475d182f.chunk.js.map",
+    "index.html": "/poz/index.html",
+    "precache-manifest.f71673391406ae6b9b148b5e23c9a791.js": "/poz/precache-manifest.f71673391406ae6b9b148b5e23c9a791.js",
+    "service-worker.js": "/poz/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/poz/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.14abd855.chunk.css.map": "/poz/static/css/main.14abd855.chunk.css.map",
+    "static/js/2.475d182f.chunk.js.LICENSE": "/poz/static/js/2.475d182f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6a2301f.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.475d182f.chunk.js",
+    "static/css/main.14abd855.chunk.css",
+    "static/js/main.54cb89d2.chunk.js"
+  ]
+}
